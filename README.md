@@ -13,6 +13,6 @@ Good luck!
 
 ## [Note]
 
-#### Type npm i for dependecies
+#### Type npm i for req dependecies
 
 #### Type npm test for testing
